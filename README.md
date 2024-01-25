@@ -7,9 +7,9 @@ Android Developer
 I'm just a guy who's a developer for fun.
 
 * 🌍  I'm based in Noida, India
-* 🖥️  See my portfolio at [My Future Academia](http://myfutureacademia.com/)
+//* 🖥️  See my portfolio at [My Future Academia](http://myfutureacademia.com/)
 * ✉️  You can contact me at [abhishektiwarigkp@gmail.com](mailto:abhishektiwarigkp@gmail.com)
-* 🧠  I'm learning Flutter
+//* 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills
